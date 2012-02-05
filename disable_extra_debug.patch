@@ -1,0 +1,11 @@
+--- qbittorrent-2.3.0rc8.orig/src/src.pro
++++ qbittorrent-2.3.0rc8/src/src.pro
+@@ -3,7 +3,7 @@ LANG_PATH = lang
+ ICONS_PATH = Icons
+ 
+ # Set the following variable to 1 to enable debug
+-DEBUG_MODE = 1
++DEBUG_MODE = 0
+ 
+ # Global
+ TEMPLATE = app
